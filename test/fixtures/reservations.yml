@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2023-05-06 12:45:39
+  end_date: 2023-05-06 12:45:39
+  guest: one
+  accommodation: one
+
+two:
+  start_date: 2023-05-06 12:45:39
+  end_date: 2023-05-06 12:45:39
+  guest: two
+  accommodation: two
